@@ -1,1 +1,6 @@
-# R25EQ090
+# About Me
+
+Hi, I am Shreyas. I am pursuing B.Tech in
+Information Science Engineering at REVA University.
+This repository contains my learning journey,
+programming skills, projects and achievements.
